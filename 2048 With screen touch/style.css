@@ -1,0 +1,11 @@
+canvas{
+    position:absolute;
+    left: 0;
+    right: 0;
+    top:101px;
+    bottom: 0;
+    border:solid;
+    border-color: aqua;
+    border-width: 1;
+    margin:auto
+}
